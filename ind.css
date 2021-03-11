@@ -1,0 +1,35 @@
+* 
+{
+    /* margin: 0px;
+    padding: 0px; */
+    background-color: bisque;
+}
+
+.page
+{
+   
+    display: flex;
+    color: black;
+    font-size: 35px
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:hover
+{
+
+    transition: 0.5s;
+    padding-left: 5px;
+    color:brown;
+}
+
+.img1
+{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 50%;
+    height: 50%;
+}
